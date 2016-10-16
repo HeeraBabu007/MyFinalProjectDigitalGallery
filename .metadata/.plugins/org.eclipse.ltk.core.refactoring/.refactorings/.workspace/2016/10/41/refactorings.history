@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Project 2 with angular&apos;" deleteContents="true" description="Delete resource &apos;Project 2 with angular&apos;" element1="/Project 2 with angular" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1475593516859"/>&#x0A;<refactoring comment="Delete resource &apos;SpringMVCHibernateManyToManyCRUDExample&apos;" deleteContents="true" description="Delete resource &apos;SpringMVCHibernateManyToManyCRUDExample&apos;" element1="/SpringMVCHibernateManyToManyCRUDExample" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1475600179562"/>
+</session>

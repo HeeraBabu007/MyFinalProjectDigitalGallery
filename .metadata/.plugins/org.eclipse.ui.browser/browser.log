@@ -1,0 +1,5 @@
+
+Oct 12, 2016 11:19:21.01 NEW SESSION
+Oct 12, 2016 11:19:21.01 [16416:17776:1012/111921:ERROR:external_registry_loader_win.cc(144)] File C:\Users\HEERAB~1\AppData\Local\Google\Drive\user_default\apdfllckaahabafndbhieahigkjlhalf_live.crx for key Software\Google\Chrome\Extensions\apdfllckaahabafndbhieahigkjlhalf does not exist or is not readable.
+Oct 12, 2016 11:19:21.34 [16416:10812:1012/111921:ERROR:gcm_store_impl.cc(306)] Failed to open database C:\Users\HeeraBabu\AppData\Local\Google\Chrome\User Data\Default\GCM Store: Invalid argument: C:\Users\HeeraBabu\AppData\Local\Google\Chrome\User Data\Default\GCM Store: does not exist (create_if_missing is false)
+Oct 12, 2016 11:19:22.30 [16416:17880:1012/111922:ERROR:gcm_store_impl.cc(306)] Failed to open database C:\Users\HeeraBabu\AppData\Local\Google\Chrome\User Data\Default\GCM Store: Invalid argument: C:\Users\HeeraBabu\AppData\Local\Google\Chrome\User Data\Default\GCM Store: does not exist (create_if_missing is false)
