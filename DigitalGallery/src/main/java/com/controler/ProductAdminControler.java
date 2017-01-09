@@ -59,7 +59,7 @@ public class ProductAdminControler {
 		ModelAndView m1 = new ModelAndView("ProductAdminView", "productadmin", new ProductAdmin());
 		System.out.println(productadmin.getProductid());
 		cdao.insert(productadmin);
-		String path="D:\\Final_Project_Of_Maven\\KitchenDecorFinal\\src\\main\\webapp\\resources\\My_Design\\";
+		String path="D:\\Final_Project_Of_Maven\\src\\main\\webapp\\resources\\My_Design\\";
 		path=path+String.valueOf(productadmin.getProductid())+".jpg";
 		File f=new File(path);
 	
