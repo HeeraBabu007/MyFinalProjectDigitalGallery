@@ -24,7 +24,7 @@ public class UserdetailsDao {
 	public void insert(UserDetails userdetails) {
 		Session session =sessionFactory.openSession();
 		
-		System.out.println("Insert Method Called for UserDetails");
+		System.out.println("Insert Method Called for UserDetails Registration");
 		Transaction tx=session.getTransaction();
 		tx.begin();
 		session.save(userdetails);
