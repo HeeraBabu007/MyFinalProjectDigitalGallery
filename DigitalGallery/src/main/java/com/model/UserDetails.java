@@ -27,47 +27,7 @@ public class UserDetails {
 	
 	public UserDetails()
 	{}
-
-	public String getPassword() {
-		return password;
-	}
-
-	public void setPassword(String password) {
-		this.password = password;
-	}
-
-	public String getUsername() {
-		return Username;
-	}
-
-	public void setUsername(String username) {
-		Username = username;
-	}
-
-	public String getEmailid() {
-		return emailid;
-	}
-
-	public void setEmailid(String emailid) {
-		this.emailid = emailid;
-	}
-
-	public String getAddress() {
-		return Address;
-	}
-
-	public void setAddress(String address) {
-		Address = address;
-	}
-
-	public String getMobile() {
-		return Mobile;
-	}
-
-	public void setMobile(String mobile) {
-		Mobile = mobile;
-	}
-	
+//generate setter and getter
 	
 
 }
